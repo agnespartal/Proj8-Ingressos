@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Proj8-Ingressos</string>
+    <string name="qtdIngresso">Quantidade de Ingresso</string>
+    <string name="valor">Ingressos a R$ 150,00 + Taxa de Conveniência</string>
+    <string name="comprar">Comprar</string>
+    <string name="VIP">VIP</string>
+    <string name="voltar">Voltar</string>
+</resources>
